@@ -1,0 +1,8 @@
+deepdiff==6.7.1
+matplotlib==3.7.1
+networkc @ git+https://github.com/atsushi-green/networkc
+networkit==10.1
+networkx==3.1
+numpy==1.26.0
+rustworkx==0.13.2
+seaborn==0.12.2
